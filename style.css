@@ -159,4 +159,11 @@ padding-left: 3rem;
 .ger{color: orange;
 font-weight: bold;
 }
-.seven{background-color: orange;}
+.seven{background-color: orange;
+}
+.span{color: orange;
+font-size: 1.5rem;
+font-weight: bolder;
+}
+.span2{font-size: 1.5rem;
+font-weight: bolder;}
