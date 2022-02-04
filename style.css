@@ -3,27 +3,160 @@ justify-content: space-between;}
 
 .mg{ float: right;}
 
+.rain{font-weight: bold;
+font-size:2rem;
+padding-left: 4rem;
+padding-top: 5rem;
+padding-bottom: 4rem;
+}
 
-.three{display: flex;}
+.we{padding-left:
+    2rem;
+padding-bottom:2rem;}
 
+.button{padding:0.5rem;
+text-align: cente;border-radius: 0.5rem;
+background-color: orange;
+}
 
-.four{display: flex;}
+.three{display: flex;
+opacity:0.9 ;
+}
+h2{color: rgb(77, 10, 77, 0.836);
+}
+
+h1{color: rgba(77, 10, 77, 0.836);
+}
+.quality{border: solid palevioletred;
+margin:0.3rem;
+padding: 1rem;
+border-radius: 1rem;
+text-align: center;
+margin-top: 3rem;
+}
+
+.fast{border:solid palevioletred;
+margin: 1rem;
+border-radius: 1rem;
+padding-left: 1rem;
+text-align: center;
+padding-right: 1rem;
+margin-top: 3rem;
+padding-top: 1rem;
+}
+
+.delicious{border:solid palevioletred;border-radius: 1rem;
+padding-left: 2rem;
+text-align: center;
+padding-top: 1rem;
+padding-right: 1rem;
+margin-top: 3rem;
+}
+
+.four{display: flex;
+}
+
+.menu{text-align: center;
+padding-top: 3rem;
+font-size: 2rem;
+font-weight: bolder;
+text-decoration:underline orange;
+}
+
+.our{color: orange;
+}
+
+.bury{border: solid peru;
+border-radius: 1rem;
+padding:1rem;
+text-align:center ;
+margin: 1rem;
+width: 25%;}
+
+.buzz{border: solid peru;
+border-radius: 1rem;
+padding:1rem;
+text-align: center;
+margin: 1rem;
+width: 25%;}
+
+.bery{border: solid peru;
+border-radius: 1rem;
+padding: 1rem;
+text-align: center;
+margin: 1rem;
+width: 25%;}
+
 
 .five{display: flex;}
+.bur{border: solid peru;
+border-radius: 1rem;
+text-align: center;
+padding: 1rem;
+margin: 1rem;
+width: 15%;
+}
 
-.double{text-align: center;}
+.ber{border: solid peru;
+border-radius: 1rem;
+text-align: center;
+padding: 1rem ;
+margin: 1rem;width: 15%;
+}
 
-.doubl{text-align: center;}
+.berr{border: solid peru;
+text-align: center;
+padding: 1rem;
+border-radius: 1rem;
+margin: 1rem;
+width:15%;
+}
 
-.phone1{text-align: center;}
+.double{padding-left: 3rem;
+font-size: 2rem;
+font-weight: bolder;}
+
+.deck{padding-left: 3rem;
+font-size:2rem ;
+font-weight: bolder;
+color: orange;}
+
+.doub{text-align: center;}
+.par{padding-left: 3rem;}
+
+.discover{padding-left: 4rem;
+font-size: 2rem;
+font-weight: bolder;
+padding-top: 5rem;}
+
+.phone1{text-align: center;
+padding-top: 3rem;}
+
+.icon{padding-left: 4rem;
+padding-bottom: 4rem;}
 
 .site{text-align: center;}
 
-.sub{text-align: right;}
+.sub{text-align: right;
+padding-right: 3rem;
+}
+.input{text-align: right;
+padding-right: 3rem;
+}
+.media{text-align: center;
+}
 
-.input{text-align: right;}
+.desi{text-align: right;
+padding-right: 3rem;
+padding-bottom: 2rem;
+}
+.png{padding-top: 3rem;
+padding-left: 3rem;
+}
 
-.media{text-align: center;}
-
-.desi{text-align: right;}
-
+.copy{padding-left: 3rem;
+}
+.ger{color: orange;
+font-weight: bold;
+}
+.seven{background-color: orange;}
